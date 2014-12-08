@@ -366,13 +366,13 @@ a:hover {
 	width: 80%;
 }
 
-.drawer-open .wrapper {
+.wrapper {
 	position: absolute;
 	width: 100%;
 	right: 0;
 }
-.drawer-open #page-top,
-.drawer-open .drawer-button {
+#page-top,
+.drawer-button {
 	right: inherit;
 }
 
